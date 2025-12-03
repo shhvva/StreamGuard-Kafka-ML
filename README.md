@@ -7,6 +7,8 @@ Features a real-time web dashboard and terminal alerts — similar to how modern
 ## Demo
 
 
+https://github.com/user-attachments/assets/23d7c582-bb72-4d39-83dc-9462627baa66
+
 
 *(Fraud alerts flying in terminal + live dashboard updating every second)*
 
